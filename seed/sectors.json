@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Lavorazioni Meccaniche",
+    "slug": "lavorazioni-meccaniche",
+    "description": "Aziende specializzate in lavorazioni meccaniche di precisione, fresatura, tornitura e lavorazioni conto terzi per il settore industriale."
+  },
+  {
+    "id": 2,
+    "name": "Lavorazioni CNC",
+    "slug": "lavorazioni-cnc",
+    "description": "Officine dotate di centri di lavoro CNC per lavorazioni ad alta precisione, prototipazione e produzioni in serie."
+  },
+  {
+    "id": 3,
+    "name": "Torneria",
+    "slug": "torneria",
+    "description": "Tornerie specializzate in tornitura di precisione, tornitura automatica e lavorazione di particolari torniti su disegno."
+  }
+]

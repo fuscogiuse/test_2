@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Brescia", "slug": "brescia", "region_id": 1, "province": "BS" },
+  { "id": 2, "name": "Bergamo", "slug": "bergamo", "region_id": 1, "province": "BG" },
+  { "id": 3, "name": "Milano", "slug": "milano", "region_id": 1, "province": "MI" },
+  { "id": 4, "name": "Vicenza", "slug": "vicenza", "region_id": 2, "province": "VI" },
+  { "id": 5, "name": "Padova", "slug": "padova", "region_id": 2, "province": "PD" },
+  { "id": 6, "name": "Bologna", "slug": "bologna", "region_id": 3, "province": "BO" },
+  { "id": 7, "name": "Torino", "slug": "torino", "region_id": 1, "province": "TO" },
+  { "id": 8, "name": "Modena", "slug": "modena", "region_id": 3, "province": "MO" },
+  { "id": 9, "name": "Verona", "slug": "verona", "region_id": 2, "province": "VR" },
+  { "id": 10, "name": "Reggio Emilia", "slug": "reggio-emilia", "region_id": 3, "province": "RE" }
+]
